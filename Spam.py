@@ -13,7 +13,7 @@ def main():
 \033[1;93mAxis               [+]CYBER DARK HUNTER
 \033[1;93mXl                   [+]cyberdarkhunter@gmail.com
 \033[1;92mSmarflen       [+]SUBSCRIBE
-\033[1;92Telkomsel
+\033[1;92mTelkomsel
          '''
 
         print(banner)
